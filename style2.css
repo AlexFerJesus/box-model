@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(155, 15, 15);
+}
+
+.block {
+    display: block;
+
+    color: chartreuse;
+}
+
+.lorem{
+    background-color: darkgoldenrod;
+    color: aqua;
+    
+}
